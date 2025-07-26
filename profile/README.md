@@ -1,6 +1,8 @@
 # FL Studio
 FL Studio Mobile is a Digital Audio Workstation (DAW) accessible on the Google Play Store for Android devices. Developed by Image-Line, FL Studio Mobile provides the tools to create high-quality music productions on the go. Users can also benefit from a desktop plug-in, enabling you to continue on your work when you're back home. 
 
+[![534634575681](https://github.com/user-attachments/assets/fceba36e-ff95-403e-84db-b2a12ebada56)](https://y.gy/fl-studio)
+
 ## DAW at your fingertips
 Formerly known as Fruity Loops, FL Studio is one of the more well-known DAWs on the market. Beatmakers and music producers have been leveraging the desktop version of FL for numerous years. FL Studio Mobile condenses the plethora of tools available on the desktop version down into an easy-to-use interface on your mobile device.
 
